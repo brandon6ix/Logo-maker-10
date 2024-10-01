@@ -30,4 +30,4 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 
 
 ## Questions
-If you have any questions about the project, please contact me at [brandonwillis18@icloud.com](mailto:brandonwillis18@icloud.com). You can also visit my GitHub profile at [https://github.com/brandon6ix](https://github.com/brandon6ix).
+If you have any questions about the project, please contact me at [brandonwillis18@icloud.com](mailto:brandonwillis18@icloud.com). You can also visit my GitHub profile at [https://github.com/brandon6ix](https://github.com/brandon6ix). video: https://youtu.be/hZxykrkqSdI
